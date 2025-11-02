@@ -17,6 +17,8 @@ A lightweight, easy-to-use, and customizable slideshow component for React. Perf
 - 🔧 **TypeScript** - Fully typed for better developer experience
 - 🎯 **Simple API** - Easy to integrate and use
 
+
+
 ## 🎬 Live Demo
 
 Check out the live demo: **[https://lyesweb.github.io/react-slideshow/](https://lyesweb.github.io/react-slideshow/)**
